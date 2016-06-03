@@ -35,5 +35,7 @@ git pull origin @@ automatically fetch and merge the changes from remote branch 
 
 git push origin master (after git commit) @@ push changes to remote repository known as origin and commit them to the master branch
 
-git remote add ¡¾additional repostory¡¿ [Url] @@ to add an additional repostory
+git remote add [additional repostory] [Url] @@ to add an additional repostory
+
+git push -u origin master (after git commit) @@ push changes to remote repository known as origin and commit them to the master branch
 
