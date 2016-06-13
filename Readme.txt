@@ -25,7 +25,7 @@ git stash apply @@ pop up the previous stash
 
 git remote @@ show a list of remote repositories
 
-git clone @@ copy a url end with .git to locally
+git clone [url] @@ copy a [url] end with .git to locally
 
 git remote -v @@ display url of a remote of origin
 
